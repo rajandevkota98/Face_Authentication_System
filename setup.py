@@ -12,7 +12,6 @@ def get_requirements():
             requirement_list.remove('- e. ')
     return requirement_list
 
-
 setup(
     name='face_authenticator',
     version='1.0.0',
