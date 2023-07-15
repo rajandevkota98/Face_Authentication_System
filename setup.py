@@ -15,7 +15,7 @@ def get_requirements():
 
 setup(
     name='face_authenticator',
-    version='1.0.1',
+    version='1.0.0',
     description='This is face authentication system.',
     author='Rajan Devkota',
     author_email='r.devkota.98@gmail.com',
